@@ -8,16 +8,16 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/avro-tools-1.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/axis.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/gson-2.2.4.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/java-json-schema.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/javax.servlet-3.0.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/javax-crypto.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/jaxrpc.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/jersey-bundle-1.19.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/saaj.jar"/>
-	<classpathentry kind="lib" path="C:/dev/nextel/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="lib/avro-tools-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/axis.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/java-json-schema.jar"/>
+	<classpathentry kind="lib" path="lib/javax-crypto.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-bundle-1.19.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/saaj.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
