@@ -1,0 +1,11 @@
+Bundle-Name: ScorePortlet
+Bundle-SymbolicName: ScorePortlet
+Bundle-Version: 1.0.0
+Export-Package: ScorePortlet.constants
+Bundle-ClassPath:\
+  	.,\
+	libs/gson.jar,\
+	libs/MicroServicesAPIs.jar
+-includeresource:\
+	libs/gson.jar=gson-2.2.4.jar,\
+	libs/MicroServicesAPIs.jar=MicroServicesAPIs-2.0.0.jar
